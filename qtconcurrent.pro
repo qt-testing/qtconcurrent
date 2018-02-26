@@ -1,3 +1,3 @@
-QT += widgets
+QT += widgets concurrent
 
 SOURCES += main.cpp
